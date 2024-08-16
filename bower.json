@@ -1,0 +1,29 @@
+{
+  "name": "threexplayground",
+  "version": "0.0.0",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threex.windowresize" : "*",
+    "threex.rendererstats" : "*",
+    "threex.nyancat" : "*",
+    "threex.htmlmixer" : "*",
+    "threex.basiclighting" : "*",
+    "threex.skymap" : "*",
+    "threex.planets" : "*",
+    "threex.geometricglow" : "*",
+    "threex.cannonjs" : "*",
+    "threex.depthoffield" : "*",
+    "threex.proceduralcity" : "*",
+    "threex.transparency" : "*",
+    "threex.noiseshadermaterial" : "*",
+    "threex.keyboardstate" : "*",
+    "threex.glowkeycolor" : "*"
+  }
+}
